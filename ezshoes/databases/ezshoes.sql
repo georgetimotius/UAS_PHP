@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: May 29, 2018 at 07:57 AM
+-- Generation Time: Jun 01, 2018 at 02:22 AM
 -- Server version: 10.1.30-MariaDB
 -- PHP Version: 7.2.1
 
@@ -21,17 +21,6 @@ SET time_zone = "+00:00";
 --
 -- Database: `ezshoes`
 --
-
--- --------------------------------------------------------
-
---
--- Table structure for table `admin`
---
-
-CREATE TABLE `admin` (
-  `id_admin` varchar(20) NOT NULL,
-  `pass_admin` varchar(20) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 -- --------------------------------------------------------
 
@@ -130,7 +119,8 @@ CREATE TABLE `testimoni` (
 
 INSERT INTO `testimoni` (`id_testimoni`, `nama`, `email`, `testimoni`) VALUES
 (1, 'George', 'georgetimotius.23@gmail.com', 'Recommended shoes seller, barang asli, pengiriman tepat waktu, terbaik deh!'),
-(2, 'Renaldy', 'renaldycahya@gmail.com', 'The best online sneakers store so far ! Very recommended !');
+(2, 'Renaldy', 'renaldycahya@gmail.com', 'The best online sneakers store so far ! Very recommended !'),
+(3, 'Diri', 'dirianindyah@gmail.com', 'Terbaek dehh bintang 5!!!');
 
 -- --------------------------------------------------------
 
@@ -170,12 +160,6 @@ INSERT INTO `transaksi` (`kode_trans`, `kode_brg`, `username`, `quantity`, `tota
 --
 -- Indexes for dumped tables
 --
-
---
--- Indexes for table `admin`
---
-ALTER TABLE `admin`
-  ADD PRIMARY KEY (`id_admin`);
 
 --
 -- Indexes for table `barang`
@@ -234,7 +218,7 @@ ALTER TABLE `rekening`
 -- AUTO_INCREMENT for table `testimoni`
 --
 ALTER TABLE `testimoni`
-  MODIFY `id_testimoni` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
+  MODIFY `id_testimoni` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
 
 --
 -- AUTO_INCREMENT for table `transaksi`
