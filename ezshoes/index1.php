@@ -126,10 +126,10 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			</div>
 			<!-- //slider -->
 			<ul class="top_icons">
-				<li><a href="#"><span class="fa fa-facebook" aria-hidden="true"></span></a></li>
-				<li><a href="#"><span class="fa fa-twitter" aria-hidden="true"></span></a></li>
-				<li><a href="#"><span class="fa fa-linkedin" aria-hidden="true"></span></a></li>
-				<li><a href="#"><span class="fa fa-google-plus" aria-hidden="true"></span></a></li>
+				<li><a href="http://facebook.com/"><span class="fa fa-facebook" aria-hidden="true"></span></a></li>
+				<li><a href="http://twitter.com/"><span class="fa fa-twitter" aria-hidden="true"></span></a></li>
+				<li><a href="http://instagram.com/"><span class="fa fa-linkedin" aria-hidden="true"></span></a></li>
+				<li><a href="http://plus.google.com/"><span class="fa fa-google-plus" aria-hidden="true"></span></a></li>
 
 			</ul>
 		</div>
@@ -278,25 +278,25 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<p>The best online sneakers store</p>
 				<ul class="social-nav model-3d-0 footer-social social two">
 					<li>
-						<a href="facebook.com" class="facebook">
+						<a href="http://facebook.com/" class="facebook">
 							<div class="front"><i class="fa fa-facebook" aria-hidden="true"></i></div>
 							<div class="back"><i class="fa fa-facebook" aria-hidden="true"></i></div>
 						</a>
 					</li>
 					<li>
-						<a href="twitter.com" class="twitter">
+						<a href="http://twitter.com/" class="twitter">
 							<div class="front"><i class="fa fa-twitter" aria-hidden="true"></i></div>
 							<div class="back"><i class="fa fa-twitter" aria-hidden="true"></i></div>
 						</a>
 					</li>
 					<li>
-						<a href="instagram.com" class="instagram">
+						<a href="http://instagram.com/" class="instagram">
 							<div class="front"><i class="fa fa-instagram" aria-hidden="true"></i></div>
 							<div class="back"><i class="fa fa-instagram" aria-hidden="true"></i></div>
 						</a>
 					</li>
 					<li>
-						<a href="pinterest.com" class="pinterest">
+						<a href="http://pinterest.com/" class="pinterest">
 							<div class="front"><i class="fa fa-linkedin" aria-hidden="true"></i></div>
 							<div class="back"><i class="fa fa-linkedin" aria-hidden="true"></i></div>
 						</a>
