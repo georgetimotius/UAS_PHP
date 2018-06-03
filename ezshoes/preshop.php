@@ -1,15 +1,13 @@
+<?php
+    session_start();
+	require_once("conn.php");
+?>
 <!--
 author: W3layouts
 author URL: http://w3layouts.com
 License: Creative Commons Attribution 3.0 Unported
 License URL: http://creativecommons.org/licenses/by/3.0/
 -->
-<?php
-	require_once("conn.php");
-    if (!isset($_SESSION)) {
-       session_start();
-   } 
-?>
 <!DOCTYPE html>
 <html lang="zxx">
 

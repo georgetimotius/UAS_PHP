@@ -1,9 +1,3 @@
-<!--
-author: W3layouts
-author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
--->
 <?php
 	session_start();
 	if (!isset($_SESSION["loggedIn"]) &&
@@ -13,6 +7,12 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		exit();
 	}
 ?>
+<!--
+author: W3layouts
+author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
 <html lang="zxx">
 
 <head>

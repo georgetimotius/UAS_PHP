@@ -1,14 +1,6 @@
-<!--
-author: W3layouts
-author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
--->
 <?php
+    session_start();
 	require_once("conn.php");
-    if (!isset($_SESSION)) {
-       session_start();
-    }
 
     require_once("databases/Database.php");
    	require_once("databases/Rekening.php");
@@ -29,6 +21,12 @@ License URL: http://creativecommons.org/licenses/by/3.0/
    			echo("Gagal input detail rekening");
    	}
 ?>
+<!--
+author: W3layouts
+author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
 <!DOCTYPE html>
 <html lang="zxx">
 

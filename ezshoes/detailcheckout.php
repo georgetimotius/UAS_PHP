@@ -1,8 +1,7 @@
 <?php
+	session_start();
 	require_once("conn.php");
-    if (!isset($_SESSION)) {
-       session_start();
-   }
+   
    if ($_POST) {
    	$username = trim($_POST['username']);
    	$nama = trim($_POST['nama']);

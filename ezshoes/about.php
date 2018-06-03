@@ -62,16 +62,16 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<!-- cart details -->
 				<div class="top_nav_right">
 					<div class="shoecart shoecart2 cart cart box_1">
-						<li><a href="checkout.php">Checkout</a></li>
-						<li><a href="logout.php">Logout</a></li>
-						</form>
+						<!--<li><a href="checkout.php">Checkout</a></li>-->
+						<!--<li><a href="logout.php">Logout</a></li>-->
+						<!--</form>-->
 					</div>
 				</div>
 			</div>
 		</div>
 		<!-- //cart details -->
 		<!-- search -->
-		<div class="search_w3ls_agileinfo">
+		<!--<div class="search_w3ls_agileinfo">
 			<div class="cd-main-header">
 				<ul class="cd-header-buttons">
 					<li><a class="cd-search-trigger" href="#cd-search"> <span></span></a></li>
@@ -82,7 +82,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<input name="Search" type="search" placeholder="Click enter after typing...">
 				</form>
 			</div>
-		</div>
+		</div>-->
 		<!-- //search -->
 		<div class="clearfix"></div>
 		<!-- /banner_inner -->

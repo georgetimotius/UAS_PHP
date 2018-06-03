@@ -1,6 +1,6 @@
 <?php
-	include("conn.php");
 	session_start();
+	include("conn.php");
 	if ($_POST) {
 		$username = $_POST["username"];
 		$password = $_POST["password"];
