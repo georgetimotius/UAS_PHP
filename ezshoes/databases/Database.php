@@ -5,9 +5,9 @@
 		function __construct() {
 			$this->db = mysqli_connect(
 				"localhost", //host
-				"root",		//username
-				"",		//password
-				"ezshoes" //db name
+				"ezsb7886",		//username
+				"VxYh6K11t6nB29",		//password
+				"ezsb7886_ezshoes" //db name
 			);
 			if(!$this->db) {
 				die("ERROR: unable to connect");
