@@ -5,8 +5,8 @@
 		function __construct() {
 			$this->db = mysqli_connect(
 				"localhost", //host
-				"ezsb7886",		//username
-				"VxYh6K11t6nB29",		//password
+				"*****",		//username
+				"*****",		//password
 				"ezsb7886_ezshoes" //db name
 			);
 			if(!$this->db) {
