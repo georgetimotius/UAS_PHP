@@ -225,6 +225,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="clearfix"></div>
 
 			<p class="copy-right-w3ls-agileits">&copy 2018 EZShoesJKT. All rights reserved | Design by <a href="http://w3layouts.com/">W3Layouts</a></p>
+			<p><center>Disclaimer! Website ini hanya dimaksudkan untuk penyelesaian tugas kuliah. Segala bentuk fitur dalam web ini hanya sebatas prototipe.</center></p>
 		</div>
 	</div>
 	</div>

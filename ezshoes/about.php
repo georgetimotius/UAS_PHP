@@ -49,7 +49,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 					<nav>
 						<ul>
-							<li><a href="index1.php" class="active">Home</a></li>
+							<li><a href="index.php" class="active">Home</a></li>
 							<li><a href="about.php">About</a></li>
 							<li><a href="shop.php">Shop Now</a></li>
 							<li><a href="testimoni.php">Testimoni</a></li>
@@ -407,12 +407,24 @@ Sudah ada banyak toko online yang menjual sepatu sneakers, tapi tanpa jaminan ke
 							</div>
 						</div>
 					</div>
+					<div class="col-md-3 sign-gd flickr-post">
+						<h4>Our Dev <span>Team</span></h4>
+						<ul>
+							<img src="images/renaldy.jpg" alt=" " class="img-responsive">
+							<p style="color: white">Renaldy Cahya</p>
+							<img src="images/riri.jpg" alt=" " class="img-responsive">
+							<p style="color: white">Diri Anindyah</p>
+							<img src="images/george.jpg" alt=" " class="img-responsive">
+							<p style="color: white">George Timotius</p>			
+						</ul>
+					</div>
 					<div class="clearfix"></div>
 				</div>
 			</div>
 			<div class="clearfix"></div>
 
 			<p class="copy-right-w3ls-agileits">&copy 2018 EZShoesJKT. All rights reserved | Design by <a href="http://w3layouts.com/">w3layouts</a></p>
+			<p><center>Disclaimer! Website ini hanya dimaksudkan untuk penyelesaian tugas kuliah. Segala bentuk fitur dalam web ini hanya sebatas prototipe.</center></p>
 		</div>
 	</div>
 	</div>

@@ -7,7 +7,7 @@
 				"localhost", //host
 				"*****",		//username
 				"*****",		//password
-				"ezsb7886_ezshoes" //db name
+				"ezshoes" //db name
 			);
 			if(!$this->db) {
 				die("ERROR: unable to connect");
