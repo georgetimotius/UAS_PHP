@@ -32,7 +32,7 @@
 		<div class="container">
 			<div class="login">
 		<h1>Delete Item</h1>
-		<form method="post" action="book_delete.php">
+		<form method="post" action="admin.php">
 			<input type="hidden" name="kodebrg" value="<?php echo $barang['kode_brg']; ?>">
 			<table>
 				<tr>
